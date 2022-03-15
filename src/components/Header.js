@@ -47,7 +47,7 @@ function Header() {
 export default Header;
 
 const Container = styled.div`
-min-height= 60px;
+min-height: 60px;
 position: fixed;
 display: flex;
 align-items: center;
